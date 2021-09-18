@@ -1,1 +1,1 @@
-<?php echo "hi"; ?>
+<?php echo file_get_contents($url); ?>
