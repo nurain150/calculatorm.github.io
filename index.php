@@ -1,4 +1,5 @@
 <?php 
-$url ="https://dlslink.net/a70e3cab";
+$url ="https://buyit.ck.page/calculatorm
+";
 
 echo file_get_contents($url); ?>
